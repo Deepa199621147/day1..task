@@ -1,0 +1,36 @@
+1.write a blog on Different between HTTP1 vs HTTP2
+
+HTTP ,Hyper text Transfor protocal,
+
+HTTP1- Was aknown to have poor resonse time.with webisites becoming more resource-
+
+     - Itensive.the protocol was losinh its efficiency.
+     
+     - It prograssively became essential to minimize latency and boost page load speeds
+
+     -based on spdy protocol,was developed to address the inherent of HTTP/1.1 and
+      further progress the interent.
+
+     -The client (browser)has to send arequest to the server using the method(GET/POST).
+
+HTTP2 -Was releated at google as the time signficant improvement of its predecessor.
+
+      -It was intially modeleted after the SPDY protocol and went through significant
+       changes to include features like multiplexing,header compression,and 
+       stream prioitization to minimize page load latency.
+      
+      -After its release,Goole announced that it would not provide support for SPDY in
+       favor of HTTP/2.
+
+2.Write a blog about odjects and its intermal representation in javascript?
+
+      -A Javascipt objects is a data type which is represented in key value.
+      
+      -Alomost all the variables in Javascript are intances of objects with theirobject 
+       property shadwed.
+      
+      -one such example is the Array in Javascript which has date as object.
+
+
+
+       
